@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile Communication</string>
+    <string name="mobile1">Galaxy A10</string>
+    <string name="mobile2">Galaxy Folding</string>
+    <string name="mobile3">Galaxy A20</string>
+    <string name="mobile4">Galaxy Z21</string>
+    <string name="mobile5">Galaxy D10</string>
+    <string name="mobile6">Galaxy S20</string>
+    <string name="mobile7">Galaxy Folding 9</string>
+    <string name="mobile8">Galaxy Note 20</string>
+</resources>
